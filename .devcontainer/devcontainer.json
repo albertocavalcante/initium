@@ -26,7 +26,8 @@
             "extensions": [
                 "ms-azuretools.vscode-docker",
                 "eamodio.gitlens",
-                "ms-vscode.makefile-tools"
+                "ms-vscode.makefile-tools",
+                "BazelBuild.vscode-bazel"
             ]
         }
     }
